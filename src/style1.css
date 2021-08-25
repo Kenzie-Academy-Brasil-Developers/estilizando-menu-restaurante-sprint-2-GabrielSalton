@@ -26,3 +26,40 @@ dd {margin: 0 0 12px 0; display: flex;}
 
 /* Draw a 2px dashed rosybrown border around the address/footer */
 address {padding: 10px;}
+
+
+/*----------------------------------------------------------------*/
+
+body {
+    font-family: "Lato";
+    font-size: 18px;
+    background-image: url("img/map-bg.jpg");
+}
+
+header h1 {
+    font-family: "Supermercado One";
+    font-size: 45px;
+    color: #5d4037;
+}
+
+section h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #6d4c41;
+    font-variant: small-caps;
+}
+
+.price {
+    color: 'firebrick';
+}
+
+footer {
+    border-width: 2px;
+    border: dashed;
+    border-color: rosybrown;
+}
+
+#menu {
+    column-rule: dashed rosybrown;
+    column-rule-width: 2px;
+}

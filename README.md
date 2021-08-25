@@ -8,8 +8,8 @@ Para o layout do menu 1, você utilizará as seguintes propriedades:
 
 ### Fonte
 
-1. Aplicou fontes e tamanhos apropriados:
-    - Family ‘Lato’ com tamanho 18px no body;
+1. Aplicou fontes e tamanhos apropriados:   
+    - Family ‘Lato’ com tamanho 18px no body; 
     - Family ‘Supermercado One’ com tamanho 45px apara o nome do restaurante;
     - Aplicou negrito e tamanho de 20px aos nomes de cada item do menu.
 
@@ -33,29 +33,29 @@ Para o layout do menu 1, você utilizará as seguintes propriedades:
 
 5. Aplicou a imagem 'map-b.jpg' para o fundo do menu.
 
-## Menu 2
+## Menu 2 
 
 Para o layout do menu 2, você utilizará as seguintes propriedades:
 
-### Fontes
+### Fontes 
 
 1. Aplicou fontes e tamanhos apropriados:
-    - Family `Oswald` com tamanho de `14px` no body;
-    - Family `Bungee Inline` com tamanho de `46px` com um peso mais leve ao nome do restaurante;
-    - Aplicou negrito e tamanho de `16px` a cada nome de item do menu.
+    - Family `Oswald` com tamanho de `14px` no body; 
+    - Family `Bungee Inline` com tamanho de `46px` com um peso mais leve ao nome do restaurante; 
+    - Aplicou negrito e tamanho de `16px` a cada nome de item do menu. 
 
-### Cabeçalho
+### Cabeçalho 
 
 2. Cada cabeçalho de seção (ex. "Starters") está em maiúsculas.
 
-### Itens do menu
+### Itens do menu 
 
-3. Existe uma vírgula depois de cada item do menu antes da descrição.
+3. Existe uma vírgula depois de cada item do menu antes da descrição. (Está duplicando qualquer elemento)
 
-### Rodapé
+### Rodapé 
 
-4. O endereço/rodapé está alinhado à direita.
+4. O endereço/rodapé está alinhado à direita. 
 
-### Borda
+### Borda 
 
-5. Existe uma borda preta com 2px de largura ao redor das seções "starters" e "desserts" do menu.
+5. Existe uma borda preta com 2px de largura ao redor das seções "starters" e "desserts" do menu. 
